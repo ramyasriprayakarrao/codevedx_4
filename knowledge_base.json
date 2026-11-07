@@ -1,0 +1,163 @@
+[
+  {
+    "question": "How do I reset my password?",
+    "keywords": [
+      "password",
+      "reset",
+      "forgot",
+      "login",
+      "locked account",
+      "sign in"
+    ],
+    "aliases": [
+      "change password",
+      "can't log in"
+    ],
+    "answer": "To reset your password:\\n1. Open your organisation’s official password-reset page.\\n2. Enter your work email or employee ID.\\n3. Follow the verification instructions.\\n4. Create a strong new password.\\nIf your account remains locked, contact IT support. Never share your password or verification code."
+  },
+  {
+    "question": "How do I connect to office Wi-Fi?",
+    "keywords": [
+      "wifi",
+      "wi-fi",
+      "wireless",
+      "internet",
+      "network",
+      "connect"
+    ],
+    "aliases": [
+      "office network",
+      "no internet"
+    ],
+    "answer": "Select your organisation’s approved employee Wi-Fi network and sign in with your work credentials if prompted. If it does not connect, turn Wi-Fi off and on, restart your device, and check whether other colleagues are affected. Contact IT support if the issue continues."
+  },
+  {
+    "question": "My email is not working",
+    "keywords": [
+      "email",
+      "outlook",
+      "mail",
+      "inbox",
+      "send",
+      "receive"
+    ],
+    "aliases": [
+      "cannot send email",
+      "mail not syncing"
+    ],
+    "answer": "Try these checks:\\n1. Confirm that you have an internet connection.\\n2. Refresh your inbox and check the Outbox.\\n3. Verify that your mailbox storage is not full.\\n4. Restart your email application.\\nIf the issue continues, contact IT support with the error message and the time it occurred."
+  },
+  {
+    "question": "How do I request software installation?",
+    "keywords": [
+      "software",
+      "install",
+      "application",
+      "app",
+      "permission",
+      "download"
+    ],
+    "aliases": [
+      "need an application",
+      "install program"
+    ],
+    "answer": "Submit a software-installation request through your organisation’s IT service portal. Include the software name, business purpose, device name, and whether a manager’s approval is required. Install only software approved by your organisation."
+  },
+  {
+    "question": "My computer is running slowly",
+    "keywords": [
+      "slow",
+      "computer",
+      "laptop",
+      "performance",
+      "hang",
+      "freeze"
+    ],
+    "aliases": [
+      "PC is stuck",
+      "system lagging"
+    ],
+    "answer": "Save your work, close unused applications and browser tabs, and restart your computer. Check available disk space and install pending approved updates. If the computer still runs slowly, contact IT support with your device name and when the problem began."
+  },
+  {
+    "question": "How do I report a hardware problem?",
+    "keywords": [
+      "hardware",
+      "keyboard",
+      "mouse",
+      "monitor",
+      "printer",
+      "broken",
+      "device"
+    ],
+    "aliases": [
+      "screen not working",
+      "printer issue"
+    ],
+    "answer": "Raise a hardware incident with IT support. Include your device asset tag or computer name, the affected component, a short description, and any error lights or messages. Do not attempt to open or repair company equipment yourself."
+  },
+  {
+    "question": "How do I get VPN access?",
+    "keywords": [
+      "vpn",
+      "remote",
+      "work from home",
+      "access",
+      "connect remotely"
+    ],
+    "aliases": [
+      "remote access",
+      "offsite network"
+    ],
+    "answer": "Request VPN access through your organisation’s IT service portal. Once approved, use the company-provided VPN application and sign in with your work credentials and required multi-factor authentication. Contact IT if you receive a connection or authentication error."
+  },
+  {
+    "question": "How do I contact IT support?",
+    "keywords": [
+      "contact",
+      "support",
+      "help desk",
+      "helpdesk",
+      "ticket",
+      "it team"
+    ],
+    "aliases": [
+      "raise a ticket",
+      "report an issue"
+    ],
+    "answer": "Create a ticket through your organisation’s official IT service portal or use the internal IT support contact details provided by your employer. Include your name, department, device, issue description, urgency, and screenshots of error messages where permitted."
+  },
+  {
+    "question": "What should I do about a suspicious email?",
+    "keywords": [
+      "phishing",
+      "suspicious",
+      "spam",
+      "security",
+      "email",
+      "link",
+      "attachment"
+    ],
+    "aliases": [
+      "fake email",
+      "scam message"
+    ],
+    "answer": "Do not click links, open attachments, reply, or provide credentials. Use your organisation’s approved phishing-report button or forward/report the message to the security team according to company policy. If you already clicked a link or entered credentials, contact IT/security immediately."
+  },
+  {
+    "question": "How do I request access to a shared folder?",
+    "keywords": [
+      "shared folder",
+      "folder",
+      "access",
+      "permission",
+      "drive",
+      "files"
+    ],
+    "aliases": [
+      "cannot open folder",
+      "network drive"
+    ],
+    "answer": "Submit an access request to the folder owner or through the IT service portal. Include the exact folder path, the access level you need (read or edit), and the business reason. Access may require manager or data-owner approval."
+  }
+]

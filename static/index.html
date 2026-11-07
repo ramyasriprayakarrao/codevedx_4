@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Internal Help Desk Chatbot</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <main class="app">
+    <header class="topbar">
+      <div class="logo">IT</div>
+      <div><h1>Internal Help Desk</h1><p>AI-style support assistant · Available locally</p></div>
+      <span class="status"><i></i> Online</span>
+    </header>
+    <section class="intro">
+      <h2>How can I help you today?</h2>
+      <p>Ask a question about passwords, Wi-Fi, email, software, VPN, or IT support.</p>
+    </section>
+    <section class="chat-panel">
+      <div id="messages" class="messages" aria-live="polite">
+        <div class="message bot"><div class="avatar">IT</div><div class="bubble">Hello! I’m your Internal Help Desk Assistant. What do you need help with today?</div></div>
+      </div>
+      <div class="suggestions">
+        <button type="button" data-question="How do I reset my password?">Reset password</button>
+        <button type="button" data-question="How do I connect to office Wi-Fi?">Wi-Fi help</button>
+        <button type="button" data-question="My email is not working">Email issue</button>
+      </div>
+      <form id="chat-form" class="composer">
+        <input id="message-input" type="text" placeholder="Type your IT question..." autocomplete="off" required>
+        <button id="send-button" type="submit">Send</button>
+      </form>
+      <p class="privacy">Demo project: do not enter passwords, OTPs, or confidential company information.</p>
+    </section>
+    <footer>Internal Help Desk Chatbot · Built with Python standard library · No scikit-learn</footer>
+  </main>
+  <script src="/script.js"></script>
+</body>
+</html>
